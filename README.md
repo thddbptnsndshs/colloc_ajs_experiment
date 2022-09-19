@@ -6,3 +6,5 @@ A PCIbex Farm experiment collecting acceptability judgements for Russian sentenc
 - `exercise.csv` and `experiment.csv` -- training sentences, test items and fillers in .csv format 
 - `stimuli_s1e3.docx` -- stimuli in a word document
 - `sandbox.ipynb` -- notebook for reading the .docx file and creating the stimuli .csv table
+
+Demonstration link: https://farm.pcibex.net/r/nUOaMV/
